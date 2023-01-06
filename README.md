@@ -5,7 +5,7 @@
 
 ## Usage
 
-To use the `postman/newman` Orb, reference it in your CircleCI config and then use the `newman-run` command.
+To use the `postman/newman` , reference it in your CircleCI config and then use the `newman-run` command.
 
 ```yaml
 version: 2.1
