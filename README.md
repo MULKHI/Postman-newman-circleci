@@ -1,6 +1,6 @@
 # Postman-newman-circleci
 
-(postman/newman) for running Postman collections with Newman - https://github.com/postmanlabs/newman
+(postman/newman) for running Postman collections and Environment with Newman - https://github.com/postmanlabs/newman
 
 
 ## Usage
